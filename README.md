@@ -26,4 +26,4 @@ Therefore, the solution was:
 
 **Files**
 
-- [setup guide](setup-guide.md)
+- [Setup Guide](setup-guide.md)
