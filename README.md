@@ -25,4 +25,4 @@ Por isso, a solução foi:
 
 **Files**
 
-- [setup guide] (setup-guide.md)
+- [setup guide](setup-guide.md)
