@@ -1,7 +1,6 @@
 ## Conexão Externa do Core 5G
 
-Quando trabalhamos com containers Docker, cada aplicação ou serviço costuma ser isolado em sua própria rede interna.  
-Isso é útil para segurança e organização, mas cria uma limitação: os serviços só conseguem se comunicar dentro dessa rede restrita.
+Quando trabalhamos com containers Docker, cada aplicação ou serviço costuma ser isolado em sua própria rede interna.  Isso é útil para segurança e organização, mas cria uma limitação: os serviços só conseguem se comunicar dentro dessa rede restrita.
 
 No caso do **Core 5G**, precisamos que **todos os módulos (AMF, SMF, UPF, NRF, etc.) se comuniquem entre si** de forma confiável e, além disso, que alguns deles possam ser acessados externamente — por exemplo, por uma estação base (**gNodeB**) ou por uma **UE (User Equipment)** simulada.
 
