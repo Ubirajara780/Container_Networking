@@ -1,7 +1,5 @@
 
-# Relatório sobre a conexão externa do Core 5G
-
-(Connecting OAI Core External IP)
+# Connecting OAI Core External IP
 
 Para conexão externa do Core é necessário fazer com que os containers se comuniquem entre si.  
 Isso só é possível se colocarmos todos os containers na mesma rede (`network`).  
