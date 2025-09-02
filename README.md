@@ -21,3 +21,8 @@ Por isso, a solução foi:
    - O Core passa a funcionar como se estivesse em uma rede pública real.  
    - As UEs e o gNodeB podem alcançar os serviços do Core diretamente pelos novos IPs.  
    - A comunicação entre os módulos internos também se torna estável, já que os endereços não mudam a cada reinício dos containers.
+---
+
+**Files**
+
+- [setup guide] (setup-guide.md)
